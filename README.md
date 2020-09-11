@@ -1,2 +1,3 @@
-# localstorage-library-js
-Created with CodeSandbox
+# LocalStorage Made Easy
+
+Built for a blog post on devwithnano.netlify.app
